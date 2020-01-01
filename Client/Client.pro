@@ -29,4 +29,5 @@ SOURCES += main.cpp\
     Socket.cpp
 
 HEADERS  += Widget.h \
-    Socket.h
+    Socket.h \
+    Protocol.h
